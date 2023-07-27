@@ -1,8 +1,8 @@
-<head>
+
 <style>
   body {background-color: coral;}
 </style>
-</head>
+
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">Computer science student at Oregon State University, living in California</h3>
 
